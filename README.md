@@ -2,6 +2,7 @@
 
 ## Getting Started
 First, install the npm version >= v18.17.0
+```bash
 npm i
 
 Run the development server:
