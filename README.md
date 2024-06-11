@@ -22,13 +22,14 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ## users
 
 -- Student --
-nurgali.soltangeldinov@mail.ru
+200103098@stu.sdu.edu.kz
 nurik2002
+
 
 role id: 1
 
 --Landlord --
-200103098@stu.sdu.edu.kz
+nurgali.soltangeldinov@mail.ru
 nurik2002
 
 role id: 2
